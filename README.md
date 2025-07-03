@@ -1,3 +1,4 @@
+
 # AI Help Bot for Knowledge Retrieval
 
 ## Project Structure
@@ -40,6 +41,8 @@
 - If you see file not found errors, check that all data steps are run in order.
 - For API errors, check `.env` and OpenAI API key.
 
----
 
 For further help, see comments in each script or ask for code samples for any step.
+
+# ai-helpbot
+
