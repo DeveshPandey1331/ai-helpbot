@@ -40,7 +40,10 @@
 ## Troubleshooting
 - If you see file not found errors, check that all data steps are run in order.
 - For API errors, check `.env` and OpenAI API key.
-
+  
+## TO RUN 
+-python -m uvicorn backend.app:app --reload     in our terminal
+-then open html code in browser by going live in bottom right corner
 
 For further help, see comments in each script or ask for code samples for any step.
 
