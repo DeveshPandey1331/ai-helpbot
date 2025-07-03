@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+openai
+faiss-cpu
+python-dotenv
+beautifulsoup4
+requests
+tqdm
+selenium       # If scraping dynamic pages from MOSDAC
+lxml           # For faster HTML parsing with BeautifulSoup
+PyMuPDF        # If using PDFs from MOSDAC
